@@ -26,7 +26,8 @@ RMF（[ロボメカ工房](https://sites.google.com/view/uec-rmf/home)）は、�
 リポジトリへの質問や要望がある場合は、issueを作成するか、Twitterに投稿してください。  
 このレポジトリは [realteck-ky](https://github.com/realteck-ky) が運営していますので、個人的な連絡でもOKです。  
 
-- [RMF公式メール](mailto:robomech.uec@gmail.com): 取材等はこちら
+- [HRU Mail](mailto:rmf-hru-wg@googlegroups.com): WGのアドレス
+- [RMF Official Mail](mailto:robomech.uec@gmail.com): 取材等はこちら
 
 # アクセス
 
