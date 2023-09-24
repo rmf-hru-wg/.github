@@ -1,6 +1,5 @@
 UEC Robomech Factory Humanoid Robot Unit Working Group 
 ===
-
 <!--
 
 **Here are some ideas to get you started:**
@@ -12,13 +11,14 @@ UEC Robomech Factory Humanoid Robot Unit Working Group
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/uecrmf_humanoid)  
-Blog (Japanese): http://blog.livedoor.jp/dentsurobomeka/
+- [日本語README](./README_ja.md)
+- ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/uecrmf_humanoid)
+- Blog (Japanese): http://blog.livedoor.jp/dentsurobomeka/
 
 # About us
 
 UEC means [The University of Electro-Communications](https://www.uec.ac.jp/eng/).  
-RMF ([Robomech Factory](https://sites.google.com/view/uec-rmf/home)) is encouraged by Univ. as STEM club activities.
+RMF ([Robomech Factory](https://sites.google.com/view/uec-rmf/home)) is supported by Univ. as STEM club activities.
 
 UEC RMF has several units categorized by Robot Competition.  
 **UEC RMF HRU** (Humanoid Robot Unit: [Blog](http://blog.livedoor.jp/dentsurobomeka/), [Twitter](https://twitter.com/uecrmf_humanoid)) since 2007 has targeted [ROBO-ONE](https://www.robo-one.com/en/), Hobby Humanoid Robot Fighting Championship.
@@ -29,7 +29,8 @@ We work with individuals and groups to create humanoid robots.
 This Working Group Repository is publish space for software and hardware in our activity.  
 
 > [!NOTE]
-> Since alumni also work together, this activity is not limited to the university and includes an unofficial aspect.
+> Since alumni and alumnae work together, activities by members outside the university are also included.
+> Unlike official repositories managed by universities, the activities are mainly conducted by amateur members.
 
 # Contact
 
