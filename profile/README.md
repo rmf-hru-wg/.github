@@ -37,7 +37,8 @@ This Working Group Repository is publish space for software and hardware in our 
 If you have a question or request in our repository, please open an issue or mention to Twitter.  
 Since this Working Group is managed by [realteck-ky](https://github.com/realteck-ky), personal contact with him is also OK.
 
-- [Official Mail (RMF)](mailto:robomech.uec@gmail.com)
+- [HRU Mail](mailto:rmf-hru-wg@googlegroups.com)
+- [RMF Official Mail](mailto:robomech.uec@gmail.com)
 
 # Access
 
