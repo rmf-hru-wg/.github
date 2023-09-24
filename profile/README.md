@@ -11,7 +11,7 @@ UEC Robomech Factory Humanoid Robot Unit Working Group
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-- [日本語README](./README_ja.md)
+- [日本語README](/profile/README_ja.md)
 - ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/uecrmf_humanoid)
 - Blog (Japanese): http://blog.livedoor.jp/dentsurobomeka/
 
